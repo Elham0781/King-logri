@@ -1,5 +1,3 @@
-# King-logri
-
 #!/usr/bin/python2
 #coding=utf-8
 #The Credit For This Code Goes To lovehacker
@@ -439,4 +437,3 @@ def pilih_super():
 
 if __name__ == '__main__':
 	login()
-
